@@ -8,4 +8,4 @@ The python script allows user to set the price of specific stocx and in return ,
 # installation
 User who clone this project can install libraries using (pip install "Library name").
 # future update
-I will update the script and make it more friendly with the help of chat-bot . In that part,User just need to enter the name of the stock to the user and set the price of that stock and in return user will be notified when the stock price is less than set price. 
+The chat bot would be created to make it more interactive  . User just have to send the name of the stock and in return it will send you the stock price . In addition to , user can also set the price of the perticular stock so that when the price fall below the set price , user will gety notification.
